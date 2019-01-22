@@ -10,7 +10,9 @@ I do plan on making a GUI for this program later and expanding the method offeri
 
 ### Current void methods include:
 getTeamDetails(Connection conn, String teamName)
+
 getTeamMatches(Connection conn, String teamName)
+
 getTeamWins(Connection conn, String teamName)
 getKnockoutTeams(Connection conn, String stage)
 getYellowCards(Connection conn, String teamName)
